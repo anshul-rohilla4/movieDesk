@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d3a48546-f7ff-4f60-8d19-04b042caccb9/deploy-status)](https://app.netlify.com/sites/moviexplore-desk/deploys) @ https://moviexplore-desk.netlify.app/
 # 🎬 MyApp1 - Movie Finder
 
 MyApp1 is a **React-based web application** that allows users to search for movies, view trending movies, and explore detailed movie information. It integrates with **The Movie Database (TMDb) API** and **Appwrite** for backend services.
